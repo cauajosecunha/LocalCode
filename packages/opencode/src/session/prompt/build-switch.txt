@@ -1,0 +1,3 @@
+<system-reminder>
+Mode switched: plan -> build. Read-only constraint lifted. You are now authorized to edit files, execute commands, and implement the plan.
+</system-reminder>

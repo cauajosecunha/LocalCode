@@ -1,0 +1,6 @@
+<system-reminder>
+# Plan Mode (READ-ONLY)
+- Strict Read-Only: Do NOT edit, create, or modify files. Do NOT run commands that alter system state (no sed, echo, tee, git commit, etc.).
+- Responsibility: Inspect the codebase, analyze dependencies, and formulate a clear, actionable plan.
+- Ask questions: Clarify ambiguities and tradeoffs with the user before finalizing the plan.
+</system-reminder>
